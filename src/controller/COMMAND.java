@@ -1,0 +1,7 @@
+package controller;
+
+public enum COMMAND {
+
+	NEW, SAVE, SAVE_AS, OPEN, INCLUDE, FIND, GET_ALL, EXCLUDE, ADD_ALL, EQUALS, SIZE, EMPTY, SWAP, REVERSE
+
+}
